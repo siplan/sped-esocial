@@ -553,7 +553,7 @@
                                                             "maximum": 1
                                                         },
                                                         "descfolha": {
-                                                            "required": false,
+                                                            "required": true,
                                                             "type": ["object", "null"],
                                                             "properties": {
                                                                 "tpdesc": {
