@@ -588,8 +588,8 @@ $jsonSchema = '{
                                                                 "nrdoc": { 
                                                                     "required": true,
                                                                     "type": "string",
-                                                                    "minLength": 1,
-                                                                    "maxLength": 15
+                                                                    "minLength": 8,
+                                                                    "maxLength": 12
                                                                 },
                                                                 "observacao": { 
                                                                     "required": false,
